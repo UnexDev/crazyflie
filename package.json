@@ -1,0 +1,14 @@
+{
+  "name": "crazyflie",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "simpleble": "^1.2.0"
+  }
+}
